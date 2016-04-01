@@ -20,7 +20,7 @@ import android.widget.TextView;
 import com.pnikosis.materialishprogress.ProgressWheel;
 
 import java.util.List;
-
+ 
 public class SweetAlertDialog3Buttons extends Dialog implements View.OnClickListener {
     private View mDialogView;
     private AnimationSet mModalInAnim;
